@@ -470,8 +470,13 @@ html {
 	display: block !important;
 }
 
-.contact-section > .inner > :nth-child(2n - 1),
-.contact-section > .inner > :nth-child(2n) {
+#contact.contact-section > .inner {
+	display: block !important;
+}
+
+#contact.contact-section > .inner > :nth-child(2n - 1),
+#contact.contact-section > .inner > :nth-child(2n),
+#contact.contact-section > .inner > * {
 	width: 100% !important;
 	padding: 0 !important;
 	border-right: 0 !important;
@@ -704,6 +709,24 @@ html {
 	#banner h1 {
 		font-size: 2.5em;
 	}
+
+	#banner .actions {
+		display: flex;
+		flex-direction: column;
+		align-items: stretch;
+		gap: 0.9em;
+		margin-left: 0;
+	}
+
+	#banner .actions li {
+		padding-left: 0;
+		width: 100%;
+	}
+
+	#banner .actions .button {
+		width: 100%;
+		text-align: center;
+	}
 	
 	#banner .tagline {
 		font-size: 1.1em;
@@ -750,6 +773,10 @@ html {
 @media screen and (max-width: 480px) {
 	#banner h1 {
 		font-size: 2em;
+	}
+
+	#banner .actions {
+		gap: 0.75em;
 	}
 	
 	.contact-card {
