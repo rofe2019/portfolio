@@ -3950,3 +3950,290 @@ input, select, textarea {
 			opacity: 1;
 			visibility: visible;
 		}
+
+/* Project Details Pages Enhancements */
+
+	#banner[class*="style"] {
+		min-height: 28em;
+		max-height: 36em;
+	}
+
+	#banner[class*="style"]:after {
+		background: linear-gradient(145deg, rgba(36, 41, 67, 0.72) 0%, rgba(42, 47, 74, 0.6) 100%);
+		opacity: 1;
+	}
+
+	#banner[class*="style"] > .inner {
+		background: rgba(16, 22, 40, 0.3);
+		border: 1px solid rgba(255, 255, 255, 0.14);
+		backdrop-filter: blur(6px);
+		-webkit-backdrop-filter: blur(6px);
+		border-radius: 16px;
+		padding: 2.25em 2.5em !important;
+	}
+
+	#banner[class*="style"] .content h4 {
+		font-size: 0.95em;
+		line-height: 1.85;
+		color: rgba(255, 255, 255, 0.9);
+	}
+
+	#main > .box.alt {
+		max-width: 70em;
+		margin: -2.5em auto 2.5em;
+		padding: 0 3em;
+		position: relative;
+		z-index: 4;
+	}
+
+	#main > .box.alt .row.gtr-uniform > div {
+		margin-bottom: 1.2em;
+	}
+
+	#main > .box.alt .image.fit {
+		margin: 0;
+		border-radius: 14px;
+		overflow: hidden;
+		border: 1px solid rgba(255, 255, 255, 0.12);
+		box-shadow: 0 14px 26px rgba(0, 0, 0, 0.28);
+	}
+
+	#main > .box.alt .image.fit img {
+		transition: transform 0.35s ease;
+	}
+
+	#main > .box.alt .image.fit:hover img {
+		transform: scale(1.04);
+	}
+
+	#main > .inner:first-of-type {
+		max-width: 70em;
+		background: rgba(255, 255, 255, 0.04);
+		border: 1px solid rgba(255, 255, 255, 0.12);
+		border-radius: 16px;
+		padding: 2.5em 2.8em 2em !important;
+	}
+
+	#main > .inner:first-of-type .actions {
+		margin: 0;
+	}
+
+	#main > .inner:first-of-type .button.primary {
+		background-image: linear-gradient(135deg, #8ea9e8 0%, #6fc3df 50%, #53e3fb 100%);
+		border-radius: 10px;
+		box-shadow: 0 10px 24px rgba(83, 227, 251, 0.24);
+		font-weight: 700;
+	}
+
+	#main > .inner:first-of-type .button.primary:hover {
+		transform: translateY(-2px);
+	}
+
+	#main > .inner:first-of-type header.major h1 {
+		font-size: 2.15em;
+		margin-bottom: 0.35em;
+	}
+
+	#main > .inner:first-of-type .actions > li {
+		width: 100%;
+	}
+
+	#main > .inner:first-of-type .actions .button.fit {
+		max-width: 20em;
+	}
+
+	#main > section > .inner:first-child {
+		max-width: 70em;
+		
+		border: 0;
+		border-radius: 16px;
+		padding: 2.1em 2.8em 1.6em !important;
+	}
+
+	#main > section > .inner:first-child header.major h1 {
+		font-size: 2em;
+	}
+
+	#main #contact {
+		border-top: 0;
+		border-bottom: 0;
+	}
+
+	#main #contact > .inner {
+		max-width: 70em;
+		margin: 0 auto 1.6em;
+		background: linear-gradient(180deg, rgba(30, 36, 63, 0.75) 0%, rgba(32, 40, 69, 0.65) 100%);
+		border: 1px solid rgba(255, 255, 255, 0.14);
+		border-radius: 16px;
+		padding: 0 !important;
+		overflow: hidden;
+		box-shadow: 0 14px 28px rgba(0, 0, 0, 0.24);
+	}
+
+	#main #contact > .inner > section {
+		padding: 1.3em !important;
+		width: 100%;
+		display: grid;
+		grid-template-columns: repeat(2, minmax(0, 1fr));
+		gap: 1.1em;
+	}
+
+	#main #contact > .inner > section > section {
+		padding: 1.6em 1.5em !important;
+		border: 1px solid rgba(255, 255, 255, 0.12);
+		border-radius: 12px;
+		background: rgba(255, 255, 255, 0.03);
+	}
+
+	#main #contact > .inner > section > section:first-child {
+		border-top: 1px solid rgba(255, 255, 255, 0.12);
+	}
+
+	#main #contact .contact-method {
+		margin: 0;
+		padding-left: 0;
+		text-align: left;
+	}
+
+	#main #contact .contact-method h3 {
+		margin-bottom: 0.4em;
+		font-size: 1.05em;
+		letter-spacing: 0.08em;
+	}
+
+	#main #contact .contact-method .icon {
+		position: relative;
+		display: inline-flex;
+		align-items: center;
+		justify-content: center;
+		width: 2.2em;
+		height: 2.2em;
+		margin-bottom: 0.65em;
+	}
+
+	#main #contact .contact-method .icon:before {
+		background: rgba(255, 255, 255, 0.95);
+		color: #242943;
+		width: 2.2em;
+		height: 2.2em;
+		line-height: 2.2em;
+		box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+	}
+
+	#main #footer {
+		margin-top: 0.4em;
+	}
+
+	#main #footer > .inner {
+		max-width: 70em;
+		margin: 0 auto;
+		background: linear-gradient(180deg, rgba(30, 36, 63, 0.65) 0%, rgba(25, 31, 53, 0.72) 100%);
+		border: 1px solid rgba(255, 255, 255, 0.12);
+		border-radius: 16px;
+		padding: 1.8em 2.4em 1.3em !important;
+		box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
+	}
+
+	#main #footer .icons {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		gap: 0.75em;
+	}
+
+	#main #footer .icons li {
+		padding: 0;
+	}
+
+	#main #footer .icons li a.icon.alt:before {
+		width: 2.35em;
+		height: 2.35em;
+		line-height: 2.35em;
+		background: rgba(255, 255, 255, 0.95);
+		transition: transform 0.2s ease, box-shadow 0.2s ease;
+		box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+	}
+
+	#main #footer .icons li a:hover {
+		transform: translateY(-2px);
+	}
+
+	#main #footer .icons li a:hover.icon.alt:before {
+		transform: translateY(-2px);
+		box-shadow: 0 12px 18px rgba(83, 227, 251, 0.28);
+	}
+
+	@media screen and (max-width: 980px) {
+
+		#banner[class*="style"] > .inner {
+			padding: 1.8em 1.8em !important;
+		}
+
+		#main > .box.alt {
+			padding: 0 2em;
+		}
+
+		#main > .inner:first-of-type {
+			width: calc(100% - 4em);
+			padding: 2em 2em 1.6em !important;
+		}
+
+		#main > section > .inner:first-child {
+			width: calc(100% - 4em);
+			padding: 1.8em 2em 1.3em !important;
+		}
+
+		#main #contact > .inner {
+			width: calc(100% - 4em);
+		}
+
+		#main #contact > .inner > section {
+			grid-template-columns: 1fr;
+		}
+
+	}
+
+	@media screen and (max-width: 736px) {
+
+		#banner[class*="style"] {
+			min-height: 0;
+		}
+
+		#banner[class*="style"] > .inner {
+			padding: 1.4em 1.2em !important;
+			border-radius: 12px;
+		}
+
+		#main > .box.alt {
+			margin-top: -1.8em;
+			padding: 0 1.5em;
+		}
+
+		#main > .inner:first-of-type {
+			width: calc(100% - 3em);
+			padding: 1.6em 1.3em 1.2em !important;
+			border-radius: 12px;
+		}
+
+		#main > section > .inner:first-child {
+			width: calc(100% - 3em);
+			padding: 1.4em 1.3em 1em !important;
+			border-radius: 12px;
+		}
+
+		#main #contact > .inner {
+			width: calc(100% - 3em);
+			border-radius: 12px;
+		}
+
+		#main #contact > .inner > section > section {
+			padding: 1.5em 1.3em !important;
+		}
+
+		#main #footer > .inner {
+			width: calc(100% - 3em);
+			padding: 1.4em 1.2em 1em !important;
+			border-radius: 12px;
+		}
+
+	}
