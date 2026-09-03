@@ -1,0 +1,1013 @@
+[
+  {
+    "n": 25,
+    "name": "BigPay",
+    "title": "BigPay Application",
+    "tagline": "Payment dashboard for sellers & merchants",
+    "kind": "app",
+    "cats": [
+      "mobile"
+    ],
+    "tech": [
+      "Flutter",
+      "Java Spring Boot",
+      "REST APIs",
+      "Fintech",
+      "Push Notifications",
+      "2FA",
+      "Arabic / English"
+    ],
+    "icon": "bigpay/ic_launcher-play-store-512x512.png",
+    "gallery": [
+      "bigpay/Screenshot_1787809982.png",
+      "bigpay/Screenshot_1787810707.png",
+      "bigpay/Screenshot_1787810729.png",
+      "bigpay/Screenshot_1787810735.png",
+      "bigpay/Screenshot_1787810745.png",
+      "bigpay/Screenshot_1787810789.png",
+      "bigpay/Screenshot_1787810808.png",
+      "bigpay/Screenshot_1787810829.png",
+      "bigpay/Screenshot_1787810835.png",
+      "bigpay/Screenshot_1787810850.png",
+      "bigpay/Screenshot_1787810854.png",
+      "bigpay/Screenshot_1787816910.png"
+    ],
+    "links": [
+      [
+        "play",
+        "https://play.google.com/store/apps/details?id=com.bigpay_mobile_app"
+      ],
+      [
+        "apple",
+        "https://apps.apple.com/app/bigpay-lb/id6780368959"
+      ]
+    ],
+    "desc": "BigPay is an all-in-one payment management app for sellers and merchants, built with Flutter on top of a Java Spring Boot backend. It puts real-time sales insights, transaction management, invoice tracking, payouts, and holds in the palm of your hand, backed by push notifications, two-factor authentication, and full Arabic and English support. A business command center built to save time and give financial clarity.",
+    "highlights": [
+      [
+        "fas fa-chart-line",
+        "Real-Time Sales Insights",
+        "Gross and net sales at a glance, with pending, successful, failed, refunded, and disputed transactions across custom date ranges."
+      ],
+      [
+        "fas fa-exchange-alt",
+        "Transaction Management",
+        "Search, filter, and review every transaction with card holder, store, and payment status details. Issue refunds in seconds."
+      ],
+      [
+        "fas fa-file-invoice-dollar",
+        "Invoice Tracking",
+        "Detailed breakdowns of subtotals, taxes, fees, and totals, with status tracking from creation to payment and one-tap cancellation."
+      ],
+      [
+        "fas fa-wallet",
+        "Payout Monitoring",
+        "Track payout schedules and methods, monitor holds and released amounts, and review full payout summaries."
+      ],
+      [
+        "fas fa-lock",
+        "Holds Management",
+        "Full transparency over funds on hold with a breakdown of active and released holds and your available balance."
+      ],
+      [
+        "fas fa-bell",
+        "Instant Alerts",
+        "Real-time push notifications for transactions, invoices, and account activity."
+      ],
+      [
+        "fas fa-shield-alt",
+        "Secure & Reliable",
+        "Two-factor authentication, secure token storage, and encrypted session management."
+      ],
+      [
+        "fas fa-store",
+        "Built for Business",
+        "Multi-seller support, card network volume breakdown, sales trend charts, and a clean bilingual interface built for speed."
+      ]
+    ]
+  },
+  {
+    "n": 24,
+    "name": "Dandana Golden",
+    "title": "Dandana Golden Website",
+    "tagline": "Luxury swimwear e-commerce platform",
+    "kind": "web",
+    "cats": [
+      "web"
+    ],
+    "tech": [
+      "Web",
+      "Responsive UI",
+      "E-Commerce",
+      "UX Design"
+    ],
+    "icon": "dgold/logo.png",
+    "hero": "dgold/1.png",
+    "gallery": [
+      "dgold/1.png",
+      "dgold/2.png",
+      "dgold/3.png",
+      "dgold/4.png"
+    ],
+    "links": [],
+    "desc": "Dandana Golden is a modern swimwear e-commerce platform designed to deliver a premium online shopping experience with an elegant UI, responsive design, and smooth performance across all devices. I built the website with modern web technologies, focusing on clean design, seamless navigation, product presentation, and an optimized user experience that reflects the brand's luxury identity."
+  },
+  {
+    "n": 23,
+    "name": "Mr.B",
+    "title": "Mr.B Application",
+    "tagline": "Trading & fintech mobile platform",
+    "kind": "app",
+    "cats": [
+      "mobile"
+    ],
+    "tech": [
+      "Flutter",
+      "Trading",
+      "Fintech",
+      "Android",
+      "iOS"
+    ],
+    "icon": "mrb/app_icon.png",
+    "gallery": [
+      "mrb/1.jpg",
+      "mrb/2.jpg",
+      "mrb/3.jpg",
+      "mrb/4.jpg",
+      "mrb/5.jpg",
+      "mrb/6.jpg",
+      "mrb/7.jpg",
+      "mrb/8.jpg",
+      "mrb/9.jpg",
+      "mrb/10.jpg",
+      "mrb/11.jpg",
+      "mrb/12.jpg",
+      "mrb/13.jpg",
+      "mrb/14.jpg",
+      "mrb/15.jpg"
+    ],
+    "links": [
+      [
+        "play",
+        "https://play.google.com/store/apps/details?id=com.mr.bitcoin&pli=1"
+      ],
+      [
+        "apple",
+        "https://apps.apple.com/us/app/my-plant/id1588033090"
+      ]
+    ],
+    "desc": "A cross-platform trading system built with Flutter, giving users a fast and intuitive interface to follow markets and manage their trades on the go."
+  },
+  {
+    "n": 21,
+    "name": "Medical Job",
+    "title": "Medical Job Application",
+    "tagline": "Healthcare recruitment portal",
+    "kind": "app",
+    "cats": [
+      "mobile"
+    ],
+    "tech": [
+      "Flutter",
+      "Recruitment",
+      "Healthcare",
+      "Android",
+      "iOS"
+    ],
+    "icon": "imMedical/medical_launcher.png",
+    "gallery": [
+      "imMedical/1.jpg",
+      "imMedical/2.jpg",
+      "imMedical/3.jpg",
+      "imMedical/4.jpg",
+      "imMedical/5.jpg",
+      "imMedical/6.jpg",
+      "imMedical/7.jpg",
+      "imMedical/8.jpg",
+      "imMedical/9.jpg",
+      "imMedical/10.jpg",
+      "imMedical/11.jpg",
+      "imMedical/12.jpg",
+      "imMedical/13.jpg",
+      "imMedical/14.jpg",
+      "imMedical/15.jpg",
+      "imMedical/16.jpg",
+      "imMedical/17.jpg",
+      "imMedical/18.jpg",
+      "imMedical/19.jpg"
+    ],
+    "links": [
+      [
+        "play",
+        "https://play.google.com/store/apps/details?id=com.medicaljob"
+      ],
+      [
+        "apple",
+        "https://apps.apple.com/us/app/my-plant/id1588033090"
+      ]
+    ],
+    "desc": "The mobile app for Medical Job, a recruitment agency with a team of experienced recruiters and connections across the MENA region. The app connects healthcare professionals with job opportunities and lets them apply and follow up directly from their phone."
+  },
+  {
+    "n": 22,
+    "name": "Katrangi Lab",
+    "title": "Katrangi Application",
+    "tagline": "Lab test booking & home visits",
+    "kind": "app",
+    "cats": [
+      "mobile"
+    ],
+    "tech": [
+      "Flutter",
+      "Healthcare",
+      "Booking",
+      "Image Upload"
+    ],
+    "icon": "katrangi/katrangiIcon.png",
+    "gallery": [
+      "katrangi/1.jpg",
+      "katrangi/2.jpg",
+      "katrangi/3.jpg",
+      "katrangi/4.jpg",
+      "katrangi/5.jpg",
+      "katrangi/6.jpg",
+      "katrangi/7.jpg",
+      "katrangi/8.jpg",
+      "katrangi/9.jpg",
+      "katrangi/10.jpg",
+      "katrangi/11.jpg",
+      "katrangi/12.jpg",
+      "katrangi/13.jpg"
+    ],
+    "links": [
+      [
+        "huawei",
+        "https://appgallery.huawei.com/app/C104820375"
+      ],
+      [
+        "apple",
+        "https://apps.apple.com/us/app/my-plant/id1588033090"
+      ]
+    ],
+    "desc": "An application for Katrangi Lab that lets patients book blood test appointments. Users can pick the specific tests they need or upload a photo of their prescription, then choose whether the visit happens at home or in the laboratory."
+  },
+  {
+    "n": 19,
+    "name": "Flikk",
+    "title": "Flikk Application",
+    "tagline": "On-demand fitness & workouts",
+    "kind": "app",
+    "cats": [
+      "mobile"
+    ],
+    "tech": [
+      "Flutter",
+      "Online Payments",
+      "Loyalty Points",
+      "Dark / Light Theme"
+    ],
+    "icon": "flikk/512.png",
+    "gallery": [
+      "flikk/1.png",
+      "flikk/2.png",
+      "flikk/3.png",
+      "flikk/4.png",
+      "flikk/5.png",
+      "flikk/6.png",
+      "flikk/7.png",
+      "flikk/8.png",
+      "flikk/9.png",
+      "flikk/10.png",
+      "flikk/11.png",
+      "flikk/12.png",
+      "flikk/13.png",
+      "flikk/14.png",
+      "flikk/15.png",
+      "flikk/16.png",
+      "flikk/17.png",
+      "flikk/18.png",
+      "flikk/19.png",
+      "flikk/20.png",
+      "flikk/21.png",
+      "flikk/22.png",
+      "flikk/23.png",
+      "flikk/24.png",
+      "flikk/25.png",
+      "flikk/26.png",
+      "flikk/27.png",
+      "flikk/28.png",
+      "flikk/29.png",
+      "flikk/30.png",
+      "flikk/31.png",
+      "flikk/32.png"
+    ],
+    "links": [
+      [
+        "huawei",
+        "https://appgallery.huawei.com/app/C104820375"
+      ],
+      [
+        "apple",
+        "https://apps.apple.com/us/app/my-plant/id1588033090"
+      ]
+    ],
+    "desc": "Flikk is a sports app where you find on-demand workouts based on how much time you have. It suggests carefully selected classes with trusted instructors, and loyalty points let you join sessions for free. Users can request to upgrade from trainee to trainer or gym account, pay online, and switch between dark and light themes."
+  },
+  {
+    "n": 20,
+    "name": "TRU",
+    "title": "TRU Application",
+    "tagline": "NFT-powered social media",
+    "kind": "app",
+    "cats": [
+      "mobile"
+    ],
+    "tech": [
+      "Flutter",
+      "NFT",
+      "MetaMask",
+      "Smart Contracts",
+      "Social"
+    ],
+    "icon": "tru/logo.png",
+    "gallery": [
+      "tru/1.png",
+      "tru/2.png",
+      "tru/3.png",
+      "tru/4.png",
+      "tru/5.png",
+      "tru/6.png",
+      "tru/7.png",
+      "tru/8.png",
+      "tru/9.png",
+      "tru/10.png",
+      "tru/11.png",
+      "tru/12.png",
+      "tru/13.png",
+      "tru/14.png",
+      "tru/15.png"
+    ],
+    "links": [
+      [
+        "play",
+        "https://play.google.com/store/apps/details?id=com.therealyou"
+      ],
+      [
+        "apple",
+        "https://apps.apple.com/us/app/my-plant/id1588033090"
+      ]
+    ],
+    "desc": "The Real You is a social media app built around authenticity: photos can only be captured live from the phone camera, then posted as a post or story and minted as NFTs. People can buy each other's photos through smart contracts with MetaMask."
+  },
+  {
+    "n": 18,
+    "name": "Sales Water",
+    "title": "Sales Water Application",
+    "tagline": "Field sales & voucher management",
+    "kind": "app",
+    "cats": [
+      "mobile"
+    ],
+    "tech": [
+      "Flutter",
+      "Payments",
+      "Sales Analytics",
+      "Vouchers"
+    ],
+    "icon": "sales/icon.png",
+    "gallery": [
+      "sales/1.jpg",
+      "sales/2.jpg",
+      "sales/3.jpg",
+      "sales/4.jpg",
+      "sales/5.jpg",
+      "sales/6.jpg",
+      "sales/7.jpg",
+      "sales/8.jpg"
+    ],
+    "links": [
+      [
+        "huawei",
+        "https://appgallery.huawei.com/app/C104820375"
+      ],
+      [
+        "apple",
+        "https://apps.apple.com/us/app/my-plant/id1588033090"
+      ]
+    ],
+    "desc": "Built for AquaCare's sales delegates in Dubai. The app sells water vouchers with offers: the delegate enters customer data and the customer pays by credit card or cash. Delegates can also track their sales percentage for vouchers and how many store visits came through them."
+  },
+  {
+    "n": 17,
+    "name": "AquaCare Delivery",
+    "title": "AquaCare Delivery Application",
+    "tagline": "Delivery tracking for drivers",
+    "kind": "app",
+    "cats": [
+      "mobile"
+    ],
+    "tech": [
+      "Flutter",
+      "Logistics",
+      "Order Management"
+    ],
+    "icon": "delivery/icon.png",
+    "gallery": [
+      "delivery/1.jpg",
+      "delivery/2.jpg",
+      "delivery/3.jpg",
+      "delivery/4.jpg",
+      "delivery/5.jpg",
+      "delivery/6.jpg",
+      "delivery/7.jpg",
+      "delivery/8.jpg",
+      "delivery/9.jpg",
+      "delivery/10.jpg"
+    ],
+    "links": [
+      [
+        "huawei",
+        "https://appgallery.huawei.com/app/C104820375"
+      ],
+      [
+        "apple",
+        "https://apps.apple.com/us/app/my-plant/id1588033090"
+      ]
+    ],
+    "desc": "AquaCare Delivery was developed for AquaCare's delivery drivers. It lists customer orders coming from the AquaCare store and shows each order with the customer's details so drivers can deliver efficiently."
+  },
+  {
+    "n": 15,
+    "name": "AquaCare Store",
+    "title": "AquaCare Store Application",
+    "tagline": "Water delivery e-commerce",
+    "kind": "app",
+    "cats": [
+      "mobile"
+    ],
+    "tech": [
+      "Flutter",
+      "E-Commerce",
+      "Card Payments",
+      "Vouchers"
+    ],
+    "icon": "water/icon.png",
+    "gallery": [
+      "water/1.jpg",
+      "water/2.jpg",
+      "water/3.jpg",
+      "water/4.jpg",
+      "water/5.jpg",
+      "water/6.jpg",
+      "water/7.jpg",
+      "water/8.jpg",
+      "water/9.jpg",
+      "water/10.jpg",
+      "water/11.jpg",
+      "water/12.jpg",
+      "water/13.jpg",
+      "water/14.jpg",
+      "water/15.jpg",
+      "water/16.jpg",
+      "water/17.jpg",
+      "water/18.jpg"
+    ],
+    "links": [
+      [
+        "huawei",
+        "https://appgallery.huawei.com/app/C104820375"
+      ],
+      [
+        "apple",
+        "https://apps.apple.com/us/app/my-plant/id1588033090"
+      ]
+    ],
+    "desc": "The AquaCare storefront app. It offers branded water, AquaCare products, and vouchers that customers can buy online from the app by credit card or cash on delivery."
+  },
+  {
+    "n": 16,
+    "name": "Velocity Quick Services",
+    "title": "Velocity Quick Services Application",
+    "tagline": "On-demand MEP services in Qatar",
+    "kind": "app",
+    "cats": [
+      "mobile"
+    ],
+    "tech": [
+      "Flutter",
+      "Service Requests",
+      "Field Services"
+    ],
+    "icon": "velocity/icon.png",
+    "gallery": [
+      "velocity/1.png",
+      "velocity/2.png",
+      "velocity/3.png",
+      "velocity/4.png",
+      "velocity/5.png",
+      "velocity/6.png",
+      "velocity/7.png",
+      "velocity/8.png",
+      "velocity/9.png"
+    ],
+    "links": [
+      [
+        "huawei",
+        "https://appgallery.huawei.com/app/C105857257"
+      ],
+      [
+        "apple",
+        "https://apps.apple.com/us/app/my-plant/id1588033090"
+      ]
+    ],
+    "desc": "Velocity is one of Qatar's leading MEP pioneers, specialising in electro-mechanical, plumbing, fire-fighting, renovation, infrastructure, water and power works, operation, and maintenance. Customers request a service in the app and the team gets in touch."
+  },
+  {
+    "n": 14,
+    "name": "Baladna",
+    "title": "Baladna Application",
+    "tagline": "Offers, gifts & rewards",
+    "kind": "app",
+    "cats": [
+      "mobile"
+    ],
+    "tech": [
+      "Flutter",
+      "Rewards",
+      "Offers"
+    ],
+    "icon": "bal/icon.png",
+    "gallery": [
+      "bal/1.jpg",
+      "bal/2.jpg",
+      "bal/3.jpg",
+      "bal/4.jpg",
+      "bal/5.jpg",
+      "bal/6.jpg",
+      "bal/7.jpg",
+      "bal/8.jpg",
+      "bal/9.jpg",
+      "bal/10.jpg"
+    ],
+    "links": [
+      [
+        "huawei",
+        "https://appgallery.huawei.com/app/C104820375"
+      ],
+      [
+        "apple",
+        "https://apps.apple.com/us/app/my-plant/id1588033090"
+      ]
+    ],
+    "desc": "Developed for Baladna Agency. The app lets customers discover the latest offers and redeem special gifts and big rewards."
+  },
+  {
+    "n": 13,
+    "name": "Yum Society",
+    "title": "Yum Society Application",
+    "tagline": "Deals discovery & loyalty gifts",
+    "kind": "app",
+    "cats": [
+      "mobile"
+    ],
+    "tech": [
+      "Flutter",
+      "Loyalty",
+      "Deals"
+    ],
+    "icon": "yum/icon1.png",
+    "gallery": [
+      "yum/1.png",
+      "yum/2.png",
+      "yum/3.png",
+      "yum/4.png",
+      "yum/5.png",
+      "yum/6.png",
+      "yum/7.png",
+      "yum/8.png",
+      "yum/9.png",
+      "yum/10.png",
+      "yum/11.png",
+      "yum/12.png",
+      "yum/13.png",
+      "yum/14.png"
+    ],
+    "links": [
+      [
+        "huawei",
+        "https://appgallery.huawei.com/app/C104820375"
+      ],
+      [
+        "apple",
+        "https://apps.apple.com/us/app/my-plant/id1588033090"
+      ]
+    ],
+    "desc": "Developed for Yum Society. The app helps users discover the latest deals and offers around them and redeem special gifts."
+  },
+  {
+    "n": 12,
+    "name": "Hakeem",
+    "title": "Hakeem Application",
+    "tagline": "Doctor booking & healthcare services",
+    "kind": "app",
+    "cats": [
+      "mobile"
+    ],
+    "tech": [
+      "Flutter",
+      "Healthcare",
+      "Appointments",
+      "Prescriptions"
+    ],
+    "icon": "imDoctor/logo.png",
+    "gallery": [
+      "imDoctor/1.jpg",
+      "imDoctor/2.jpg",
+      "imDoctor/3.jpg",
+      "imDoctor/4.jpg",
+      "imDoctor/5.jpg",
+      "imDoctor/6.jpg",
+      "imDoctor/7.jpg",
+      "imDoctor/8.jpg",
+      "imDoctor/9.jpg",
+      "imDoctor/10.jpg",
+      "imDoctor/11.jpg",
+      "imDoctor/12.jpg",
+      "imDoctor/13.jpg"
+    ],
+    "links": [
+      [
+        "huawei",
+        "https://appgallery.huawei.com/app/C104820375"
+      ],
+      [
+        "apple",
+        "https://apps.apple.com/us/app/my-plant/id1588033090"
+      ]
+    ],
+    "desc": "Hakeem lets patients book doctors' appointments across all specialties and reserve laboratory tests. They can order medicines by uploading a photo of a prescription, and request a nurse or doctor visit at home."
+  },
+  {
+    "n": 11,
+    "name": "Sukkar Brothers",
+    "title": "Sukkar Brothers Application",
+    "tagline": "Offline-first field visits",
+    "kind": "app",
+    "cats": [
+      "mobile"
+    ],
+    "tech": [
+      "Flutter",
+      "Offline-first",
+      "QR Scanning",
+      "Sync"
+    ],
+    "icon": "imS/icon.png",
+    "gallery": [
+      "imS/1.jpg",
+      "imS/2.jpg",
+      "imS/3.jpg"
+    ],
+    "links": [
+      [
+        "huawei",
+        "https://appgallery.huawei.com/app/C104820375"
+      ],
+      [
+        "apple",
+        "https://apps.apple.com/us/app/my-plant/id1588033090"
+      ]
+    ],
+    "desc": "Built for Sukkar Brothers' sales delegates. Delegates schedule customer visits by scanning each customer's QR code, and managers can see when each delegate visited each customer. Visits are recorded offline and synced automatically once the phone is back online."
+  },
+  {
+    "n": 10,
+    "name": "AquaCare Lead",
+    "title": "AquaCare Lead Application",
+    "tagline": "Sales targets, QR orders & PDF invoices",
+    "kind": "app",
+    "cats": [
+      "mobile"
+    ],
+    "tech": [
+      "Flutter",
+      "QR Scanning",
+      "PDF Generation",
+      "Sales Targets"
+    ],
+    "icon": "imA/icon.png",
+    "gallery": [
+      "imA/1.png",
+      "imA/2.png",
+      "imA/3.png",
+      "imA/4.png",
+      "imA/5.png",
+      "imA/6.png",
+      "imA/7.png",
+      "imA/8.png",
+      "imA/9.png",
+      "imA/10.png",
+      "imA/11.png",
+      "imA/12.jpg"
+    ],
+    "links": [
+      [
+        "huawei",
+        "https://appgallery.huawei.com/app/C104820375"
+      ],
+      [
+        "apple",
+        "https://apps.apple.com/us/app/my-plant/id1588033090"
+      ]
+    ],
+    "desc": "Developed for AquaCare's sales delegates. Each delegate sees what was sold to customers and in which quantities, and how far they are from their target. Sales are captured by scanning product QR codes or entered manually, and a PDF invoice is generated straight from the app."
+  },
+  {
+    "n": 9,
+    "name": "My Plant",
+    "title": "My Plant",
+    "tagline": "Educational plant-care game",
+    "kind": "app",
+    "cats": [
+      "mobile"
+    ],
+    "tech": [
+      "Flutter",
+      "Game",
+      "Education"
+    ],
+    "icon": "imP/icon.png",
+    "gallery": [
+      "imP/1.jpg",
+      "imP/2.jpg",
+      "imP/3.jpg",
+      "imP/4.jpg",
+      "imP/5.jpg",
+      "imP/6.jpg"
+    ],
+    "links": [
+      [
+        "huawei",
+        "https://appgallery.huawei.com/app/C104820375"
+      ],
+      [
+        "apple",
+        "https://apps.apple.com/us/app/my-plant/id1588033090"
+      ]
+    ],
+    "desc": "An entertaining game that teaches players how to take care of plants, published on the App Store and Huawei AppGallery."
+  },
+  {
+    "n": 8,
+    "name": "Yachts World",
+    "title": "Yachts World",
+    "tagline": "Luxury yacht sales & charter",
+    "kind": "app",
+    "cats": [
+      "mobile"
+    ],
+    "tech": [
+      "Flutter",
+      "iOS",
+      "AppGallery",
+      "Catalog"
+    ],
+    "icon": "imR/icon.png",
+    "gallery": [
+      "imR/1.jpg",
+      "imR/2.jpg",
+      "imR/3.jpg",
+      "imR/4.jpg",
+      "imR/5.jpg",
+      "imR/6.jpg",
+      "imR/7.jpg"
+    ],
+    "links": [
+      [
+        "huawei",
+        "https://appgallery.huawei.com/app/C104816193"
+      ],
+      [
+        "apple",
+        "https://apps.apple.com/us/app/royal-yachts-app/id1580945208#?platform=iphone"
+      ]
+    ],
+    "desc": "Yachts World is an international boating company offering bespoke services in the sale, purchase, charter, management, and new construction of luxury boats. I built their mobile app with Flutter."
+  },
+  {
+    "n": 7,
+    "name": "MyStore",
+    "title": "MyStore Application",
+    "tagline": "E-commerce mobile app",
+    "kind": "app",
+    "cats": [
+      "mobile"
+    ],
+    "tech": [
+      "Flutter",
+      "Firebase",
+      "E-Commerce"
+    ],
+    "icon": "imM/my.png",
+    "gallery": [
+      "imM/1.jpg",
+      "imM/2.jpg",
+      "imM/3.jpg",
+      "imM/4.jpg",
+      "imM/5.jpg",
+      "imM/6.jpg",
+      "imM/7.jpg",
+      "imM/8.jpg",
+      "imM/9.jpg"
+    ],
+    "links": [
+      [
+        "demo",
+        "https://drive.google.com/file/d/1UnI24o_fkaBF_EDMoh4BF1_ELJMaOApa/view?usp=sharing"
+      ]
+    ],
+    "desc": "A complete e-commerce app developed with Flutter and backed by Firebase services for authentication, real-time data, and storage."
+  },
+  {
+    "n": 6,
+    "name": "Rafah Store",
+    "title": "Rafah Store Website",
+    "tagline": "Makeup & skincare online store",
+    "kind": "web",
+    "cats": [
+      "web"
+    ],
+    "tech": [
+      "WordPress",
+      "WooCommerce",
+      "E-Commerce"
+    ],
+    "icon": "imW/logo.png",
+    "hero": "imW/1.png",
+    "gallery": [
+      "imW/1.png",
+      "imW/2.png",
+      "imW/3.png",
+      "imW/4.png"
+    ],
+    "links": [
+      [
+        "demo",
+        "https://drive.google.com/file/d/1SHuteS_T87ZMacqYyA4x5KWRckNmEH-a/view?usp=drivesdk"
+      ]
+    ],
+    "desc": "An e-commerce website built on WordPress for makeup and skincare products, with online ordering and checkout."
+  },
+  {
+    "n": 5,
+    "name": "Dandana Shop",
+    "title": "Dandana Shop",
+    "tagline": "Swimwear shopping app",
+    "kind": "app",
+    "cats": [
+      "mobile"
+    ],
+    "tech": [
+      "Flutter",
+      "E-Commerce",
+      "Auth",
+      "Cart"
+    ],
+    "icon": "imD/rafah.png",
+    "gallery": [
+      "imD/1.jpg",
+      "imD/2.jpg",
+      "imD/3.jpg"
+    ],
+    "links": [
+      [
+        "demo",
+        "https://drive.google.com/file/d/1LPjjBua8Cb7VhwPNMyTZX40GEgm45s1W/view?usp=drivesdk"
+      ]
+    ],
+    "desc": "A Flutter shopping app for Dandana Agency's swimwear line. Customers browse the latest products, register and log in, add items to their cart, and buy online."
+  },
+  {
+    "n": 4,
+    "name": "Kassar Agency",
+    "title": "Kassar Agency",
+    "tagline": "Employee management app",
+    "kind": "app",
+    "cats": [
+      "mobile"
+    ],
+    "tech": [
+      "Flutter",
+      "CRUD",
+      "Management"
+    ],
+    "icon": "images/k.png",
+    "gallery": [
+      "imK/1.jpg",
+      "imK/2.jpg",
+      "imK/3.jpg",
+      "imK/4.jpg"
+    ],
+    "links": [
+      [
+        "demo",
+        "https://drive.google.com/file/d/1LgIEuZWSU9_IEG-auKLpqckuzSZxJrDP/view?usp=drivesdk"
+      ]
+    ],
+    "desc": "A Flutter application for an agency to manage employee information, with full add, edit, delete, and view workflows."
+  },
+  {
+    "n": 3,
+    "name": "Bee News",
+    "title": "Bee News Website",
+    "tagline": "AI virtual news anchors",
+    "kind": "web",
+    "cats": [
+      "web",
+      "ai"
+    ],
+    "tech": [
+      "Deep Learning",
+      "NLP",
+      "Lip Sync",
+      "Web"
+    ],
+    "icon": "images/5.jpg",
+    "hero": "imN/1.png",
+    "gallery": [
+      "imN/1.png",
+      "imN/2.png",
+      "imN/3.png"
+    ],
+    "links": [
+      [
+        "youtube",
+        "https://youtu.be/1V7WJJ0CSAM"
+      ]
+    ],
+    "desc": "A website for a news agency with virtual news anchors. It synthesizes sequences of face images and voices matching each character's identity, handling voice tone, facial expression, and accurate lip synchronization. Built with deep learning and NLP."
+  },
+  {
+    "n": 2,
+    "name": "Camera Based GPS",
+    "title": "Camera Based GPS",
+    "tagline": "Offline AR navigation with object detection",
+    "kind": "app",
+    "cats": [
+      "mobile",
+      "ai"
+    ],
+    "tech": [
+      "Android",
+      "Object Detection",
+      "Offline Maps",
+      "Computer Vision"
+    ],
+    "icon": "images/3.jpg",
+    "gallery": [
+      "imC/1.jpg",
+      "imC/2g.jpg",
+      "imC/3g.jpg",
+      "imC/4g.jpg",
+      "imC/5g.jpg"
+    ],
+    "links": [
+      [
+        "demo",
+        "https://drive.google.com/file/d/1iFiTnc9QDLSmlOyLUCZ2RNbOhrM3eCVr/view"
+      ]
+    ],
+    "desc": "An Android app for places with no GPS satellite signal and no internet access. Drivers get safe navigation in remote destinations, while parents receive messages about their children's current location. Both modes show street maps on screen, powered by an object detection algorithm."
+  },
+  {
+    "n": 1,
+    "name": "Airlines Book",
+    "title": "Airlines Book",
+    "tagline": "Flight booking system",
+    "kind": "app",
+    "cats": [
+      "mobile"
+    ],
+    "tech": [
+      "Android",
+      "REST APIs",
+      "Database",
+      "Admin Panel"
+    ],
+    "icon": "images/1.jpg",
+    "gallery": [
+      "imf/1.jpg",
+      "imf/2.jpg",
+      "imf/3.jpg",
+      "imf/4.jpg",
+      "imf/6.jpg"
+    ],
+    "links": [
+      [
+        "demo",
+        "https://drive.google.com/file/d/1LVI2SU1I_MCSJY8kIxKTFKHaR6zdaslU/view?usp=drivesdk"
+      ]
+    ],
+    "desc": "An Android flight booking app for end users and admins. Admins can view, add, update, and delete registered users and flights in the database through a set of APIs."
+  }
+]
